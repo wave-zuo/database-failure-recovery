@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acf01f78-c2f9-45b9-8699-c7de7df0221d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2633H5ospDaxBszNPoYVv6xvsua" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn " />
+      <command value="mvn package" />
+      <command value="java -Xmx1536m -Xms1536m -jar target/tests.jar  " />
+      <command value="mvn package " />
+      <command value="java -Xmx1536m -Xms1536m -jar target/tests.jar" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TransactionManagerTests">
+    <configuration name="InterleavedTransactionManagerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transaction-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs245.as3.driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs245.as3.driver" />
+      <option name="MAIN_CLASS_NAME" value="cs245.as3.driver.InterleavedTransactionManagerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogManagerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transaction-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs245.as3.driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs245.as3.driver" />
+      <option name="MAIN_CLASS_NAME" value="cs245.as3.driver.LogManagerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recordcs.TestRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transaction-processor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Recordcs" />
+      <option name="METHOD_NAME" value="TestRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageManagerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transaction-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs245.as3.driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs245.as3.driver" />
+      <option name="MAIN_CLASS_NAME" value="cs245.as3.driver.StorageManagerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionManagerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transaction-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs245.as3.driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs245.as3.driver" />
+      <option name="MAIN_CLASS_NAME" value="cs245.as3.driver.TransactionManagerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TransactionManagerTests" />
+        <item itemvalue="JUnit.StorageManagerTests" />
+        <item itemvalue="JUnit.LogManagerTests" />
+        <item itemvalue="JUnit.InterleavedTransactionManagerTests" />
+        <item itemvalue="JUnit.Recordcs.TestRead" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acf01f78-c2f9-45b9-8699-c7de7df0221d" name="Default Changelist" comment="" />
+      <created>1646638351785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646638351785</updated>
+    </task>
+    <servers />
+  </component>
+</project>
